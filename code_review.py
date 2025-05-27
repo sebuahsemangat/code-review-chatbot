@@ -3,7 +3,7 @@ import google.generativeai as genai
 import random
 
 # Ganti dengan API key kamu (gunakan API key yang valid dan aman)
-GOOGLE_API_KEY = "AIzaSyBYmVZA6nnetMjeWcnosX639-glZoCJAyU" # Pastikan ini adalah API key yang valid dan aman!
+GOOGLE_API_KEY = "XXXXXXXXXXXXXXXXX" # Pastikan ini adalah API key yang valid dan aman!
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Daftar soal pemrograman dasar
